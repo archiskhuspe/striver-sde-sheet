@@ -1,4 +1,4 @@
-# Striver's SDE Sheet — Topic Tracker
+# Striver SDE Sheet
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
